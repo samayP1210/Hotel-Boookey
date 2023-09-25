@@ -1,0 +1,26 @@
+.userContainer{
+    /* border: solid black 2px; */
+    /* border-radius: 3px; */
+    width: 300px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.profile{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.edit{
+    width: 20px;
+    height: 20px;
+}
+.edit:hover{
+    cursor: pointer;
+}
+.detail{
+    justify-content:center;
+}
+.heading{
+    text-align: center;
+    padding: 20px;
+}

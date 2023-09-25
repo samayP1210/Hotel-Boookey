@@ -1,0 +1,13 @@
+.slideshow {
+  margin: 0 auto;
+  overflow: hidden;
+  max-width: 500px;
+  transition: ease 1000ms;
+  display: inline-block;
+}
+.slide {
+  display: inline-block;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}

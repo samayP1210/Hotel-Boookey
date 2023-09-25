@@ -1,0 +1,39 @@
+.card{
+    flex-direction: row;
+    padding: 10px;
+}
+/* .card:hover{
+    cursor: pointer;
+} */
+
+.hotel-name{
+    margin: auto;
+}
+.checked{
+    color: orange;   
+}
+.book-btn{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    display: block;
+    /* float: right; */
+    font-weight: 500;
+    color: #cfc9cb;
+    background-color: #1A1A1D;
+}
+.book-btn:hover{
+    cursor : pointer;
+    color: azure;
+}
+.reviews{
+    position: absolute;
+    bottom: 8px;
+    /* color:; */
+    left: 25px;
+}
+.reviews:hover{
+    cursor: pointer;
+    color:#6d6d9e;
+    font-weight:500;
+}
